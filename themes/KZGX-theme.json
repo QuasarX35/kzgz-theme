@@ -4,6 +4,10 @@
 	"description": "A theme based on Douglas Camargo's Opera GX VSCode Theme with syntax highlighting colors from NoThInG's One Monokai Python Theme",
 	"version": "1.0.0",
 	"publisher": "kyzex35",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/QuasarX35/kzgz-theme"
+	},
 	"$schema": "vscode://schemas/color-theme",
 	"type": "dark",
 	"colors": {
