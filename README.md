@@ -1,4 +1,4 @@
-# gx-monokai-theme README
+# KZ's GX Theme README
 
 This theme was inspired by dkcamargox's Classic Opera GX Theme along with the syntax highlighting colors from NoThInG's One Monokai Python Theme. I might update this theme in the future to make it look nicer
 
