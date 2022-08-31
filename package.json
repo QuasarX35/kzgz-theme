@@ -2,6 +2,7 @@
   "name": "gx-monokai-theme",
   "displayName": "GX Monokai Theme",
   "description": "A mix and match version of the classic Opera GX and the One Monokai Python Theme",
+  "publisher": "kyze",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.70.0"
