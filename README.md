@@ -1,16 +1,8 @@
 # gx-monokai-theme README
 
-## Working with Markdown
+This theme was inspired by dkcamargox's Classic Opera GX Theme along with the syntax highlighting colors from NoThInG's One Monokai Python Theme. I might update this theme in the future to make it look nicer
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+dkcamargox's Classic GX Theme: https://github.com/dkcamargox/opera-gx-4-vsco
+nxht's One Monokai Python Theme: https://github.com/nxht/one-monokai-python
 
 **Enjoy!**
